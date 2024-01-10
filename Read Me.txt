@@ -1,0 +1,13 @@
+
+- This Project has been done during my learning period to get profieciency & hands on experience of Microsoft Excell.
+- During this project i collected data of Classic collection store to find out annual perfomance of the store.
+- In this project i used Sort & filter function to data cleaning & Data processing.
+- Utilized pivot table, pivot Chart & Slicer to Creat graphical representation.
+- Created an animated dashboard to showcase the report in interactive way.
+
+<- || Insights || ->
+
+- women are more likely to buy compared to men (65%)
+- maharashtra, Karnataka And uttar pradesh are the top 3 states (35%)														
+- Adult age group (30-49 yrs) is max contributiong (50%)														
+- Amazon, Flipkart and myntra channels are max Contributing (80%)														
